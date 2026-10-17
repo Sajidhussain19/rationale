@@ -54,3 +54,10 @@ npm run dev
 
 ## Roadmap
 Slack / Google Meet / Drive connectors · Firestore vector search for 10k+ decision ledgers · weekly "decision drift" digest · role-based workspaces with Firebase Auth.
+
+## Submission links
+- **Live prototype:** https://rationale-1036336415666.asia-south1.run.app
+- **Demo video:** https://youtu.be/4LVb3n2jIkE
+- **Pitch deck:** [docs/Rationale_Deck.pdf](docs/Rationale_Deck.pdf)
+
+![Rationale screenshot](docs/screenshot.png)
